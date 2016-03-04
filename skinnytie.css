@@ -1,0 +1,53 @@
+.bannerfree{
+    display: inline-flex;
+    background-color: darkorange;
+    width: 100%;
+    justify-content: space-between;
+
+    
+}
+
+.navigationbanner {
+    display: inline-flex;
+    background-color: white;
+    
+
+}
+.navgav{
+    display: flex;
+    margin: 10% 0;
+    padding-left: 70px;
+    
+}
+
+#skinnyties {
+    width: 128px;
+    height: 117px;
+
+    
+}    
+    
+
+
+ul {
+    list-style-type: none;
+    display: inline-flex;
+    
+}
+
+.bottom { 
+    margin: 5% 0;
+    justify-content: space-between;
+    word-spacing: 40px;
+}
+
+.tiegroup {
+    display: inline-flex
+    
+}
+
+.better{ 
+    margin-left: 300px;
+    background-color: 230 230 230;
+}
+
